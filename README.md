@@ -11,7 +11,7 @@ I have completed the following assignments:
 The project is built with:
 
 -   **React + TypeScript**
--   **TailwindCSS** & [shadcn/ui](https://ui.shadcn.com/) for UI components
+-   **TailwindCSS** for UI components
 -   **Redux Toolkit** for state management
 -   **React Router** for navigation
 -   **Leaflet** for interactive map
@@ -22,7 +22,7 @@ The project is built with:
 ## 🚀 Live Demo
 
 You can view the deployed project here:  
-👉 [https://fe-assignment-aug-2025.vercel.app/a3](https://fe-assignment-aug-2025.vercel.app)
+👉 [https://fe-assignment-aug-2025.vercel.app](https://fe-assignment-aug-2025.vercel.app)
 
 ---
 
