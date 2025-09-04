@@ -17,15 +17,11 @@
         "jsx": "react-jsx",
         "baseUrl": "src",
         "paths": {
-            "@components/*": ["components/*"],
-            "@atom/*": ["components/atom/*"],
-            "@pages/*": ["components/pages/*"],
-            "@layouts/*": ["layouts/*"],
             "@routes/*": ["routes/*"],
-            "@images/*": ["assets/images/*"],
-            "@icons/*": ["assets/icons/*"],
-            "@setup/*": ["setup/*"],
-            "@redux/*": ["redux/*"]
+            "@redux/*": ["redux/*"],
+            "@A1/*": ["assignments/A1/*"],
+            "@A2/*": ["assignments/A2/*"],
+            "@A3/*": ["assignments/A3/*"]
         }
     },
     "include": ["src"]
